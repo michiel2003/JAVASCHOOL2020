@@ -10,5 +10,6 @@
 	<classpathentry kind="src" path="18-09-2020 toets"/>
 	<classpathentry kind="src" path="25-09-2020 school"/>
 	<classpathentry kind="src" path="Bezigheidstherapie"/>
+	<classpathentry kind="src" path="interfaces"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
